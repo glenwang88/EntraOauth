@@ -10,7 +10,7 @@ This app provides the ability to configure Entra OAuth 2.0 authentication parame
 ## Getting Started
 
 Procedure to start one or all three SPA apps:
-   ```javascript
+   ```bash
    cd EntraID/SPA
    npm install
    npm run start-ce
