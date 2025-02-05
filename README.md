@@ -9,7 +9,7 @@ This app provides the ability to configure Entra OAuth 2.0 authentication parame
 ## Getting Started
 
 1. Navigate to the SPA folder:
-   ```bash
+   ```javascript
    cd EntraID/SPA
    npm install
    npm run start-ce
@@ -21,6 +21,6 @@ This app provides the ability to configure Entra OAuth 2.0 authentication parame
    cd EntraID/SPA 
    npm install
    npm run start-ce
-   ```bash
+   ```
 
    ![Screenshot](ReadmeFiles/EntraOauth.png)
