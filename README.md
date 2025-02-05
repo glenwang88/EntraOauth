@@ -1,2 +1,2 @@
 # EntraOauth
-OIDC app for Entra ID / CIAM / Azure B2C
+Oauth/OIDC app for Entra ID / CIAM / Azure B2C
