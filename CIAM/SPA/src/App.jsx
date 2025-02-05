@@ -1,5 +1,5 @@
-import { MsalProvider, AuthenticatedTemplate, useMsal, UnauthenticatedTemplate } from '@azure/msal-react';
-import { Container, Button } from 'react-bootstrap';
+import { MsalProvider, AuthenticatedTemplate, useMsal } from '@azure/msal-react';
+import { Container } from 'react-bootstrap';
 import { PageLayout } from './components/PageLayout';
 //import { loginRequest } from './authConfig';
 import { Configurations } from './components/Configurations';
