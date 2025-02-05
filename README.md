@@ -2,9 +2,10 @@
 
 This app provides the ability to configure Entra OAuth 2.0 authentication parameters and test the authentication flow.
 
-1. Support for Entra ID / CIAM / Azure B2C  
-2. Configurable OAuth 2.0 authentication parameters  
-3. Quick & easy testing of OAuth 2.0 flows
+1. Quick & easy testing of Entra OAuth 2.0 flows
+2. Support for Entra ID / CIAM / Azure B2C  
+3. Configurable OAuth 2.0 authentication parameters  
+
 
 ## Getting Started
 
