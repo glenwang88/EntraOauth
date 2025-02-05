@@ -8,7 +8,7 @@ This app provides the ability to configure Entra OAuth 2.0 authentication parame
 
 ## Getting Started
 
-1. Navigate to the SPA folder:
+Procedure to start one or all three SPA apps:
    ```javascript
    cd EntraID/SPA
    npm install
@@ -22,6 +22,7 @@ This app provides the ability to configure Entra OAuth 2.0 authentication parame
    npm install
    npm run start-ce
    ```
+
 1. By default Apps run at http://localhost:3001, http://localhost:3002, http://localhost:3003
 2. Apps URL should be configured in authConfig.js
 
