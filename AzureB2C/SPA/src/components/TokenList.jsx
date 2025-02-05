@@ -7,7 +7,7 @@ import { eventEmitter } from '../eventEmitter';
 
 import '../styles/TokenList.css'; 
 
-const TokenList = ({ }) => {
+const TokenList = () => {
 
     const { instance } = useMsal();
 
@@ -45,7 +45,7 @@ const TokenList = ({ }) => {
         return () => {
             eventEmitter.off('acquireToken', handleAcquireToken);
         };
-    }, []);
+    }, [instance]);
 
     return (
         <>

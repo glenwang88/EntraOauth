@@ -1,7 +1,6 @@
 // Welcome.jsx
 import React from 'react';
-import { appURI_EntraID, appURI_CIAM, appURI_B2C} from '../authConfig';
-import { FaPen, FaBook } from 'react-icons/fa';
+import { appURI_B2C} from '../authConfig';
 
 const Welcome = () => {
     return (
