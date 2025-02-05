@@ -1,0 +1,55 @@
+footer {
+  position: fixed;
+  bottom: 5%;
+  width: 100%;
+}
+
+.App {
+  text-align: center;
+}
+
+.data-area-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly
+}
+
+.navbarButton {
+  color: #fff !important;
+  padding: .5rem 1rem !important;
+}
+
+.navbarStyle {
+  padding: .5rem 1rem !important;
+}
+
+.table-responsive {
+  max-height: 39rem !important;
+}
+
+.tableColumn {
+  word-break: break-all
+}
+
+.profileButton {
+  margin: .5rem .5rem;
+}
+
+/* Get new data */
+.new-data {
+  animation: flash 2s;
+}
+
+@keyframes flash {
+  0%, 50%, 100% {
+      background-color: #f9f9f9; /* original color */
+  }
+  25%, 75% {
+      background-color: #ffff99; /* flash color */
+  }
+}
+
+.error {
+  color: red;
+}
