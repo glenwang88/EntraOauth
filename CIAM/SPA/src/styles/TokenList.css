@@ -1,0 +1,16 @@
+/* .new-token {
+    animation: flash 2s;
+}
+
+@keyframes flash {
+    0%, 50%, 100% {
+        background-color: #f9f9f9; 
+    }
+    25%, 75% {
+        background-color: #ffff99; 
+    }
+}
+
+.error {
+    color: red;
+} */
