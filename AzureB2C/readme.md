@@ -17,7 +17,7 @@ https://learn.microsoft.com/en-us/azure/active-directory-b2c/overview
    npm run start-ce
    ```
 
-1. By default Apps run at http://localhost:3003
+1. By default App run at http://localhost:3003
 2. Apps URL should be configured in authConfig.js to support menu navigation through three apps.
 
 ![Screenshot](../ReadmeFiles/B2COauth.png)
