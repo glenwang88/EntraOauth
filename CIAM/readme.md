@@ -17,7 +17,7 @@ https://learn.microsoft.com/en-us/entra/external-id/customers/overview-customers
    npm run start-ce
    ```
 
-1. By default Apps run at http://localhost:3002
+1. By default App run at http://localhost:3002
 2. Apps URL should be configured in authConfig.js to support menu navigation through three apps.
 
 ![Screenshot](../ReadmeFiles/CIAMOauth.png)
