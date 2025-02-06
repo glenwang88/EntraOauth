@@ -1,6 +1,6 @@
 # Entra OAuth / OIDC Configuration & Testing
 
-This app provides the ability to configure Entra OAuth / OIDC authentication parameters and test the authentication flow.
+This app provides the ability to configure Entra (Azure) OAuth / OIDC authentication parameters and test the authentication flow.
 
 1. Configurable OAuth / OIDC authentication parameters, e.g. Client ID, Scope permission etc.
 2. Support for Entra ID / CIAM / Azure B2C.
