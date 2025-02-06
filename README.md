@@ -28,8 +28,8 @@ Procedure to start one or all three SPA apps, for Entra ID, CIAM (External ID), 
 *Note: By default Apps run at http://localhost:3001, http://localhost:3002, http://localhost:3003. Apps URL should be configured in authConfig.js to support menu navigation through three apps.*
 
 In Entra admin center or Azure portal, setup App Registrations with SPA platform, and add the redirect URI http://localhost:300x/  
-https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app  
-https://learn.microsoft.com/en-us/entra/external-id/customers/how-to-register-ciam-app?tabs=spa  
-https://learn.microsoft.com/en-us/azure/active-directory-b2c/tutorial-register-spa  
+Entra ID: https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app  
+CIAM: https://learn.microsoft.com/en-us/entra/external-id/customers/how-to-register-ciam-app?tabs=spa  
+Azure B2C: https://learn.microsoft.com/en-us/azure/active-directory-b2c/tutorial-register-spa  
 
 ![Screenshot](ReadmeFiles/EntraOauth.png)
