@@ -18,7 +18,7 @@ Procedure to start one or all three SPA apps, for Entra ID, CIAM (External ID), 
    npm run start-ce
    ```
 
-1. By default Apps run at http://localhost:3001
+1. By default App run at http://localhost:3001
 2. Apps URL should be configured in authConfig.js to support menu navigation through three apps.
 
 ![Screenshot](../ReadmeFiles/EntraOauth.png)
