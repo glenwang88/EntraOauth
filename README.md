@@ -29,7 +29,7 @@ Procedure to start one or all three SPA apps, for Entra ID, CIAM (External ID), 
 
 In Entra admin center or Azure portal, setup App Registrations with SPA platform, and add the redirect URI http://localhost:300x/  
 https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app  
-https://learn.microsoft.com/en-us/entra/external-id/customers/how-to-register-ciam-app?tabs=spa
+https://learn.microsoft.com/en-us/entra/external-id/customers/how-to-register-ciam-app?tabs=spa  
 https://learn.microsoft.com/en-us/azure/active-directory-b2c/tutorial-register-spa  
 
 ![Screenshot](ReadmeFiles/EntraOauth.png)
