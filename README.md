@@ -2,7 +2,7 @@
 
 This app provides the ability to configure Entra OAuth / OIDC authentication parameters and test the authentication flow.
 
-1. Configurable OAuth 2.0 authentication parameters, e.g. Client ID, Scope permission etc.
+1. Configurable OAuth / OIDC authentication parameters, e.g. Client ID, Scope permission etc.
 2. Support for Entra ID / CIAM / Azure B2C.
 3. Quick & easy testing of Entra OAuth authentication.
 4. MSAL (Microsoft Authentication Library) function text.
