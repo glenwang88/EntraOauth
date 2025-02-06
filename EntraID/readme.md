@@ -11,7 +11,6 @@ https://learn.microsoft.com/en-us/entra/identity/
 
 ## Getting Started
 
-Procedure to start one or all three SPA apps, for Entra ID, CIAM (External ID), Azure B2C.
    ```bash
    cd EntraID/SPA
    npm install
