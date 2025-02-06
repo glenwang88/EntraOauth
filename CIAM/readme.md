@@ -19,7 +19,7 @@ https://learn.microsoft.com/en-us/entra/external-id/customers/overview-customers
 
 Note: By default App run at http://localhost:3002. Apps URL should be configured in authConfig.js to support menu navigation through three apps.
 
-In CIAM Azure portal, setup an App registration with SPA platform, and add the redirect URI: http://localhost:3002/.  
+In Entra admin center, setup an App registration with SPA platform, and add the redirect URI: http://localhost:3002/.  
 https://learn.microsoft.com/en-us/entra/external-id/customers/how-to-register-ciam-app?tabs=spa  
 
 ![Screenshot](../ReadmeFiles/CIAMOauth.png)
