@@ -18,8 +18,10 @@ Procedure to start one or all three SPA apps, for Entra ID, CIAM (External ID), 
    npm run start-ce
    ```
 
-1. By default App run at http://localhost:3001
-2. Apps URL should be configured in authConfig.js to support menu navigation through three apps.
+Note: By default App run at http://localhost:3001. Apps URL should be configured in authConfig.js to support menu navigation through three apps.
+
+In Entra admin center, setup an App Registration with SPA platform, and add the redirect URI: http://localhost:3001/.
+https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app
 
 ![Screenshot](../ReadmeFiles/EntraOauth.png)
 
