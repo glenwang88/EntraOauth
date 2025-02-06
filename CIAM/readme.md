@@ -1,6 +1,6 @@
 # Entra CIAM (External ID) OAuth / OIDC Configuration & Testing
 
-This app provides the ability to configure Entra CIAM (External ID) OAuth 2.0 authentication parameters and test the authentication flow.
+This app provides the ability to configure Entra CIAM (External ID) OAuth / OIDC authentication parameters and test the authentication flow.
 
 1. Configurable OAuth / OIDC authentication parameters, e.g. Client ID, Scope permission etc.
 2. Quick & easy testing of Entra OAuth authentication.
